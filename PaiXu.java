@@ -17,7 +17,6 @@ public class PaiXu {
 				i = i - 1;// 然后又从前 前一个元素开始比较标记key，若前前元素也比标记大
 			}
 			a[i + 1] = key;
-			System.out.println("修改测试");
 		}
 	}
 }
